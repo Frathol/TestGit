@@ -8,7 +8,7 @@ public class App {
         System.out.print("Masukkan Angka : ");
         String angka = oke.nextLine();
 
-        for(int i = angka.length();i >= 0;i--){
+        for(int i = angka.length()-1;i >= 0;i--){
             wadah = wadah + angka.charAt(i);
         }
 
