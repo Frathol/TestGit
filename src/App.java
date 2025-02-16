@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
-//Tugas Pem.Platform B
+/**Tugas Pem.Platform B
+ * Nim : 235314092
+ * Nama : Michael Mosses Christianto
+**/
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Oke!!!!!!!!!");
